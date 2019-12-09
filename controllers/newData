@@ -1,0 +1,7 @@
+'use strict'
+
+async function newData (req, res) {
+
+}
+
+module.exports = newData
